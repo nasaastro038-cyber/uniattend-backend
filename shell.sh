@@ -1,1 +1,1 @@
-Hello Termux
+echo "Hello Termux"
